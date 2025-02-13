@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yliqi2" alt="yliqi2" /></a> </p>
 
-- 🔭 I’m currently working on [You're working on an app called Dister, which is a social network where users can post offers and view them in real-time through an API.](https://github.com/yliqi2/Dister)
+- 🔭 I’m currently working on [an app called Dister, which is a social network where users can post offers and view them in real-time through an API.](https://github.com/yliqi2/Dister)
 
 - 🌱 I’m currently learning **Provider, bloc for flutter**
 
