@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yliqi2&label=Profile%20views&color=0e75b6&style=flat" alt="yliqi2" /> </p>
 
-- 🔭 I’m currently working on [You're working on an app called Dister, which is a social network where users can post offers and view them in real-time through an API.](https://github.com/yliqi2/Dister)
+- 🔭 I’m currently working on an app called [Dister](https://github.com/yliqi2/Dister), which is a social network where users can post offers and view them in real-time through an API.
 
 - 🌱 I’m currently learning **Provider, bloc for flutter**
 
