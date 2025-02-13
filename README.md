@@ -1,9 +1,11 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=yliqi2&label=Profile%20views&color=0e75b6&style=flat" alt="yliqi2" /> </p>
 <h1 align="center">Hi 👋, I'm Liqiang Yang</h1>
-<h3 align="center">A passionate Software developer from Spain</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yliqi2&label=Profile%20views&color=0e75b6&style=flat" alt="yliqi2" /> </p>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome!+👋+to+my+Profile;" />
+</h1>
 
-- 🔭 I’m currently working on an app called [Dister](https://github.com/yliqi2/Dister), which is a social network where users can post offers and view them in real-time through an API.
+- 🔭 I’m currently working on an app called [Dister](https://github.com/yliqi2/Dister), which is a social network where users can post offers, show the products from internet in real-time through an API.
 
 - 🌱 I’m currently learning **Provider, bloc for flutter**
 
